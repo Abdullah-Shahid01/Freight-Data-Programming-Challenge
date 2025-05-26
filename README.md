@@ -54,7 +54,7 @@ The purpose of this challenge is to:
    - Analyzed top exports by country, cargo destinations, and most active operators.
    - Compared AIS-reported draft to vessel-design draft to infer loading activity.
 
-## 🚀 Getting Started
+## Getting Started
 
 To get started with this project, all you need to do is clone the repository and run the notebook. Follow the steps below:
 
@@ -62,7 +62,7 @@ To get started with this project, all you need to do is clone the repository and
 ```bash
 git clone https://github.com/Abdullah-Shahid01/Freight-Data-Programming-Challenge.git
 cd Freight-Data-Programming-Challenge
-
+```
 ### 2. Open the notebook:
 Open the `programming_challenge.ipynb` file using your preferred environment
 
